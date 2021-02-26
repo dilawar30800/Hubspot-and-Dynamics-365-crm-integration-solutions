@@ -1,0 +1,16 @@
+﻿Installing assembly 'E:\Projects2020\New folder\HubspotDynamics365CustomIntegration1\SyncProcessWindowsService\bin\Release\SyncProcessWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Projects2020\New folder\HubspotDynamics365CustomIntegration1\SyncProcessWindowsService\bin\Release\SyncProcessWindowsService.InstallLog
+   assemblypath = E:\Projects2020\New folder\HubspotDynamics365CustomIntegration1\SyncProcessWindowsService\bin\Release\SyncProcessWindowsService.exe
+Unable to create an instance of the SyncProcessWindowsService.ProjectInstaller installer type.
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+The inner exception System.NullReferenceException was thrown with the following error message: Object reference not set to an instance of an object..
+Rolling back assembly 'E:\Projects2020\New folder\HubspotDynamics365CustomIntegration1\SyncProcessWindowsService\bin\Release\SyncProcessWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Projects2020\New folder\HubspotDynamics365CustomIntegration1\SyncProcessWindowsService\bin\Release\SyncProcessWindowsService.InstallLog
+   assemblypath = E:\Projects2020\New folder\HubspotDynamics365CustomIntegration1\SyncProcessWindowsService\bin\Release\SyncProcessWindowsService.exe
+Unable to create an instance of the SyncProcessWindowsService.ProjectInstaller installer type.
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+The inner exception System.NullReferenceException was thrown with the following error message: Object reference not set to an instance of an object..
